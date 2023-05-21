@@ -1,0 +1,95 @@
+Fusing layers... 
+Fusing layers... 
+Fusing layers... 
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+['', 'Users', 'kangwook', 'Desktop', 'Captone', '댕댕', 'save_img', 'KakaoTalk_Photo_2022-11-03-10-29-29.jpg']
+Users
+/Users/kangwook/Desktop/Captone/댕댕/result/detKakaoTalk_Photo_2022-11-03-10-29-29.jpg
+/Users/kangwook/Desktop/Captone/댕댕/result/d_imgKakaoTalk_Photo_2022-11-03-10-29-29.jpg
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+['', 'Users', 'kangwook', 'Desktop', 'Captone', '댕댕', 'save_img', 'KakaoTalk_Photo_2022-11-03-10-29-29.jpg']
+Users
+/Users/kangwook/Desktop/Captone/댕댕/result/detKakaoTalk_Photo_2022-11-03-10-29-29.jpg
+/Users/kangwook/Desktop/Captone/댕댕/result/d_imgKakaoTalk_Photo_2022-11-03-10-29-29.jpg
+Fusing layers... 
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+ * Serving Flask app "serve" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://localhost:5001/ (Press CTRL+C to quit)
+ * Restarting with watchdog (fsevents)
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+ * Debugger is active!
+ * Debugger PIN: 106-598-164
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+ * Serving Flask app "serve" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://localhost:5001/ (Press CTRL+C to quit)
+ * Restarting with watchdog (fsevents)
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+ * Serving Flask app "serve" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://localhost:5001/ (Press CTRL+C to quit)
+ * Restarting with watchdog (fsevents)
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+ * Debugger is active!
+ * Debugger PIN: 106-598-164
+Traceback (most recent call last):
+  File "/Users/kangwook/Desktop/Captone/yolov5/serve.py", line 90, in <module>
+    app.run(host='localhost', port='5001', debug=True)
+  File "/Users/kangwook/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/Users/kangwook/opt/anaconda3/lib/python3.9/site-packages/werkzeug/serving.py", line 1009, in run_simple
+    _rwr(
+  File "/Users/kangwook/opt/anaconda3/lib/python3.9/site-packages/werkzeug/_reloader.py", line 418, in run_with_reloader
+    ensure_echo_on()
+  File "/Users/kangwook/opt/anaconda3/lib/python3.9/site-packages/werkzeug/_reloader.py", line 398, in ensure_echo_on
+    termios.tcsetattr(sys.stdin, termios.TCSANOW, attributes)
+termios.error: (5, 'Input/output error')
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+/Users/kangwook/Desktop/Captone/static/KakaoTalk_Photo_2022-11-03-10-29-29.jpg
+/Users/kangwook/Desktop/Captone/댕댕/result/det/KakaoTalk_Photo_2022-11-03-10-29-29.jpg
+/Users/kangwook/Desktop/Captone/댕댕/result/det/KakaoTalk_Photo_2022-11-03-10-29-29.txt
+     0     1         2         3         4        5
+0  5.0  0.34  0.319531  0.295833  0.054688  0.10463
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+/Users/kangwook/Desktop/Captone/static/KakaoTalk_Photo_2022-11-03-10-29-29.jpg
+/Users/kangwook/Desktop/Captone/댕댕/result/det/KakaoTalk_Photo_2022-11-03-10-29-29.jpg
+/Users/kangwook/Desktop/Captone/댕댕/result/det/KakaoTalk_Photo_2022-11-03-10-29-29.txt
+     0     1         2         3         4        5
+0  5.0  0.34  0.319531  0.295833  0.054688  0.10463
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+/Users/kangwook/Desktop/Captone/static/KakaoTalk_Photo_2022-11-03-10-29-29.jpg
+/Users/kangwook/Desktop/Captone/댕댕/result/det/KakaoTalk_Photo_2022-11-03-10-29-29.jpg
+/Users/kangwook/Desktop/Captone/댕댕/result/det/KakaoTalk_Photo_2022-11-03-10-29-29.txt
+     0     1         2         3         4        5
+0  5.0  0.34  0.319531  0.295833  0.054688  0.10463
+Fusing layers... 
+YOLOv5s summary: 157 layers, 7026307 parameters, 0 gradients
+/Users/kangwook/Desktop/Captone/static/KakaoTalk_Photo_2022-11-03-10-29-29.jpg
+/Users/kangwook/Desktop/Captone/댕댕/result/det/KakaoTalk_Photo_2022-11-03-10-29-29.jpg
+/Users/kangwook/Desktop/Captone/댕댕/result/det/KakaoTalk_Photo_2022-11-03-10-29-29.txt
+     0     1         2         3         4        5
+0  5.0  0.34  0.319531  0.295833  0.054688  0.10463
